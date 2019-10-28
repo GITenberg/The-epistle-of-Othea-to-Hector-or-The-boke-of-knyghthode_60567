@@ -1,0 +1,40 @@
+_repo: The-epistle-of-Othea-to-Hector-or-The-boke-of-knyghthode_60567
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Scrope, Stephen
+    gutenberg_agent_id: '51026'
+    url: http://www.gutenberg.org/2009/agents/51026
+creator:
+  author:
+    agent_name: Christine, de Pisan
+    aliases:
+    - Pisan, Christiné de
+    - Pisan, Christine de
+    - Pizan, Christine de
+    birthdate: 1363
+    deathdate: 1430
+    gutenberg_agent_id: '4613'
+    url: http://www.gutenberg.org/2009/agents/4613
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Christine_de_Pizan
+    - https://fr.wikipedia.org/wiki/Christine_de_Pizan
+  editor:
+    agent_name: Warner, George F.
+    gutenberg_agent_id: '51025'
+    url: http://www.gutenberg.org/2009/agents/51025
+description: ''
+gutenberg_issued: '2019-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60567'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The epistle of Othea to Hector
+
+  or The boke of knyghthode'
+url: http://www.gutenberg.org/ebooks/60567
